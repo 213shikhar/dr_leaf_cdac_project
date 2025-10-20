@@ -1,0 +1,7 @@
+python
+eclipse
+react setup
+PostgreSQL, pgAdmin
+docker desktop
+render
+dataset

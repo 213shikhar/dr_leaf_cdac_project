@@ -1,0 +1,4 @@
+1. project decided
+2. project planned
+3. synopsis prepared
+4. phase 1 requirements & setup ready (python, dataset, colab NB)

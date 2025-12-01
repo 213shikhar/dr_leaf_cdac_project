@@ -1,0 +1,39 @@
+.hero-bg {
+  background: linear-gradient(to bottom, #dcfce7, #ffffff);
+}
+
+.hero-title {
+  color: #16a34a; /* vibrant green like Tailwind green-700 */
+}
+
+.upload-btn {
+  background-color: #16a34a;
+  color: white;
+  border: none;
+}
+
+.upload-btn:hover {
+  background-color: #15803d;
+}
+
+.learn-btn {
+  background-color: white;
+  color: #16a34a;
+  border: 2px solid #16a34a;
+}
+
+.learn-btn:hover {
+  background-color: #dcfce7;
+}
+
+.features-bg {
+  background-color: #dcfce7;
+}
+
+.feature-card {
+  background-color: white;
+}
+
+.feature-icon {
+  color: #16a34a;
+}

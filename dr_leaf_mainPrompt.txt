@@ -177,3 +177,18 @@ Common Privacy / Data Risks
 -Storing personal details without encryption.
 
 FOR NOW I WANT YOU TO HELP ME START WITH CODING THE ML MODEL USING TENSOR FLOW AND CNN. DO NOT WRITE ALL THE CODE DIRECTLY. JUST GUIDE ME STEP BY STEP WHAT TO WRITE. I WILL BE WRITING IN GOOGLE COLAB. AFTER THE MODEL IS BUILT I WANT TO CHECK SOME SAMPLE IMAGES IN THE NOTEBOOK ITSELF (BY UPLOADING IMAGES).
+
+
+
+---------------------------------------
+
+
+I am ready with the backend integration with spring boot (phase 1 and phase 2 done), help me setup the environment for the same in eclipse, i already have dr_leaf_cdac_project folder (which is the main folder) if possible, i want to do everything inside this folder
+
+---------------------------------------
+
+now i want to work with frontend. so tell me how to approach step by step. tell me the project structure (i have a main folder named as dr_leaf_cdac_project) and how to setup. what tools are required
+here are points to consider:
+
+- the fronted should be made using react.
+- i want a home page, login page, registration page for now.
